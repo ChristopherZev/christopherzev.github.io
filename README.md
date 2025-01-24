@@ -2,9 +2,9 @@
 
 ## Identity Management Compliance Specifications for Amazon Music
 
-**Date Created:** [Insert Date]  
-**Last Updated:** [Insert Date]  
-**Document Version:** 1.2
+**Date Created:** 
+**Last Updated:** 
+**Document Version:** 1.0
 
 ---
 
