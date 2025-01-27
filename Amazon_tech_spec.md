@@ -1,5 +1,6 @@
 # 📄 Technical Specification Document - Download as a .docx file
-- **[Download as a .docx file](Amazon_Tech_Spec_Draft.docx)**
+**[Download as a .docx file](Amazon_Tech_Spec_Draft.docx)**
+
 ## Identity Management Compliance for Amazon Music
 
 **Document Version:** 1.0  
