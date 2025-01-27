@@ -1,5 +1,5 @@
 # 📄 Technical Specification Document
-**[Download as a .docx file]([Amazon_Tech_Spec_Draft.docx](https://github.com/ChristopherZev/christopherzev.github.io/raw/refs/heads/main/Amazon_Tech_Spec_Draft.docx))**
+**[Download as a .docx file](https://github.com/ChristopherZev/christopherzev.github.io/raw/refs/heads/main/Amazon_Tech_Spec_Draft.docx)**
 
 ## Identity Management Compliance for Amazon Music
 
