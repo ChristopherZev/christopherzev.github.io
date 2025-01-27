@@ -57,8 +57,8 @@ Covers all systems handling personal identification information (PII) for Amazon
 
 We welcome your feedback and suggestions. Reach out to us through the following channels:
 
-- [Open an Issue](https://github.com/your-username/your-repository/issues)
-- [Contact Us](mailto:support@amazonmusic.com)
+- [Open an Issue](https://github.com/ChristopherZev/christopherzev.github.io/issues)
+- [Contact Us](https://docs.google.com/forms/d/e/1FAIpQLScHsEJ228t6G9wZwGrPviuxqzPSkaqxFJY39JZTM8soVm4eCw/viewform)
 
 ---
 
