@@ -1,4 +1,4 @@
-# 📄 Technical Specification Document
+# 📄 Tech Docs
 
 Welcome to the official documentation for **Identity Management Compliance for Amazon Music**. This document outlines the technical specifications required to ensure Amazon Music's identity management system is compliant with international data protection regulations such as GDPR, CCPA, and COPPA.
 
