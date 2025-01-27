@@ -26,7 +26,7 @@ This document includes:
 
 Click below to access the full specification:
 
-- **[Identity Management Compliance Document](technical-specification.md)**
+- **[Identity Management Compliance Document](Amazon_tech_spec.md)**
 
 ---
 
