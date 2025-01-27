@@ -1,4 +1,4 @@
-# 📄 Technical Specification Document
+# 📄 Technical Specification Document - Download as a .docx file
 
 ## Identity Management Compliance for Amazon Music
 
