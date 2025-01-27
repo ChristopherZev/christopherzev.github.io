@@ -22,7 +22,7 @@ This document includes:
 
 ---
 
-## 🛠 How to View the Document
+## 🛠 How to View the Document 
 
 Click below to access the full specification:
 
